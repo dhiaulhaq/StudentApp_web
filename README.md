@@ -23,3 +23,12 @@
 
 - Halaman Edit
     ![image](https://user-images.githubusercontent.com/19872458/153230953-92be77af-b6c9-4014-8d9e-5026ab3da71b.png)
+
+### Catatan:
+- Untuk login sebagai admin:
+    Username = admin |
+    Password = admin1234
+    
+- Untuk login sebagai user biasa:
+    Username = maulana |
+    Password = maulana1234
