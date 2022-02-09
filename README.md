@@ -9,7 +9,7 @@
 - Jalankan 'php artisan key:generate'
 - Jalankan 'php artisan cache:clear'
 - Jalankan 'php artisan migrate:refresh --seed'
-- Jjalankan 'php artisan passport:install'
+- Jalankan 'php artisan passport:install'
 - Jalankan 'ipconfig' kemudian salin IPv4 Address yang tertera
 - Jalankan 'php artisan serve --host=IPv4 Address anda'
 
