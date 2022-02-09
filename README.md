@@ -4,11 +4,12 @@
 - Setelah itu buka project dan duplikat file '.env.example' dan ubah namanya menjadi '.env'
 - Ubah pengaturan seperti pada gambar di bawah ini menjadi sesuai dengan konfigurasi database anda
     ![ss file env](https://user-images.githubusercontent.com/19872458/153229484-26ea4f25-9086-42c2-ae7f-fd913180b621.png)
-- Buka cmd kemudian arahkan pada folder project.
+- Buka terminal atau cmd kemudian arahkan pada folder project
 - Jalankan 'composer install'
 - Jalankan 'php artisan key:generate'
 - Jalankan 'php artisan cache:clear'
 - Jalankan 'php artisan migrate:refresh --seed'
+- Jjalankan 'php artisan passport:install'
 - Jalankan 'ipconfig' kemudian salin IPv4 Address yang tertera
 - Jalankan 'php artisan serve --host=IPv4 Address anda'
 
